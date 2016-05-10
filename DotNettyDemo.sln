@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNettyDemo.Server", "DotNettyDemo.Server\DotNettyDemo.Server.csproj", "{F37F327A-EA36-4EF8-95C6-2B456DF8276C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNettyDemo.Client", "DotNettyDemo.Client\DotNettyDemo.Client.csproj", "{0774EB20-86E6-4FCC-B454-9B91488BD64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F37F327A-EA36-4EF8-95C6-2B456DF8276C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37F327A-EA36-4EF8-95C6-2B456DF8276C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37F327A-EA36-4EF8-95C6-2B456DF8276C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37F327A-EA36-4EF8-95C6-2B456DF8276C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0774EB20-86E6-4FCC-B454-9B91488BD64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0774EB20-86E6-4FCC-B454-9B91488BD64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0774EB20-86E6-4FCC-B454-9B91488BD64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0774EB20-86E6-4FCC-B454-9B91488BD64F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+D:\Projects\DotNettyDemo\DotNettyDemo.Client\bin\Debug\DotNettyDemo.Client.exe.config
+D:\Projects\DotNettyDemo\DotNettyDemo.Client\bin\Debug\DotNettyDemo.Client.exe
+D:\Projects\DotNettyDemo\DotNettyDemo.Client\bin\Debug\DotNettyDemo.Client.pdb
+D:\Projects\DotNettyDemo\DotNettyDemo.Client\bin\Debug\DotNetty.Buffers.dll
+D:\Projects\DotNettyDemo\DotNettyDemo.Client\bin\Debug\DotNetty.Common.dll
+D:\Projects\DotNettyDemo\DotNettyDemo.Client\bin\Debug\DotNetty.Transport.dll
+D:\Projects\DotNettyDemo\DotNettyDemo.Client\obj\Debug\DotNettyDemo.Client.csprojResolveAssemblyReference.cache
+D:\Projects\DotNettyDemo\DotNettyDemo.Client\obj\Debug\DotNettyDemo.Client.exe
+D:\Projects\DotNettyDemo\DotNettyDemo.Client\obj\Debug\DotNettyDemo.Client.pdb
